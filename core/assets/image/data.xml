@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<questions>
+	<question>
+		<id>12</id>
+		<number>1</number>
+		<diff>0</diff>
+		<text>W którym roku dokonano chrztu Polski?</text>
+        <imag>0</imag>
+		<ansA>966</ansA>
+		<ansB>1025</ansB>
+		<ansC>924</ansC>
+		<ansD>999</ansD>
+		<idA>19518</idA>
+		<idB>13335</idB>
+		<idC>19213</idC>
+		<idD>191</idD>
+	</question>
+	<question>
+		<id>16</id>
+		<number>2</number>
+		<diff>0</diff>
+		<text>Jakie państwo nie graniczy z Niemcami?</text>
+        <imag>0</imag>
+		<ansA>Holandia</ansA>
+		<ansB>Austria</ansB>
+		<ansC>Dania</ansC>
+		<ansD>Włochy</ansD>
+		<idA>9187</idA>
+		<idB>33335</idB>
+		<idC>0921</idC>
+		<idD>26028</idD>
+	</question>
+    <question>
+        <id>8</id>
+        <number>3</number>
+        <diff>0</diff>
+        <text>Jakiego państwa jest to flaga?</text>
+        <imag>1</imag>
+        <ansA>Urugwaj</ansA>
+        <ansB>Chile</ansB>
+        <ansC>Nepal</ansC>
+        <ansD>Chiny</ansD>
+        <idA>9227</idA>
+        <idB>21358</idB>
+        <idC>13026</idC>
+        <idD>2628</idD>
+    </question>
+    <question>
+        <id>3</id>
+        <number>4</number>
+        <diff>0</diff>
+        <text>W jakim mieście znajduje się ten budynek?</text>
+        <imag>1</imag>
+        <ansA>w Gdańsku</ansA>
+        <ansB>w Poznaniu</ansB>
+        <ansC>w Radomiu</ansC>
+        <ansD>w Krakowie</ansD>
+        <idA>4902</idA>
+        <idB>1956</idB>
+        <idC>4526</idC>
+        <idD>2252</idD>
+    </question>
+    <question>
+        <id>5</id>
+        <number>5</number>
+        <diff>0</diff>
+        <text>Jakie miasto jest stolicą Libanu?</text>
+        <imag>0</imag>
+        <ansA>Mekka</ansA>
+        <ansB>Kair</ansB>
+        <ansC>Bejrut</ansC>
+        <ansD>Tibilisi</ansD>
+        <idA>7223</idA>
+        <idB>8156</idB>
+        <idC>8160</idC>
+        <idD>3191</idD>
+    </question>
+    <question>
+        <id>5</id>
+        <number>6</number>
+        <diff>0</diff>
+        <text>Co to za państwo</text>
+        <imag>1</imag>
+        <ansA>Chile</ansA>
+        <ansB>Urugwaj</ansB>
+        <ansC>Portugalia</ansC>
+        <ansD>Argentyna</ansD>
+        <idA>8166</idA>
+        <idB>8156</idB>
+        <idC>2233</idC>
+        <idD>3191</idD>
+    </question>
+</questions>
